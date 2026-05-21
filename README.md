@@ -38,4 +38,5 @@ int main() {
             cout << "Experiment " << i << " average: "
                  << fixed << setprecision(2) << average
                  << " is Above acceptable range\n";
+             }
 
